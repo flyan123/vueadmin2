@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     app
+    <span class="inconfont icon-add"></span>
   </div>
 </template>
 
