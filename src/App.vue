@@ -1,8 +1,7 @@
 <template>
   <div id="app">
-    app
-    <span class="inconfont icon-add"></span>
-  </div>
+    <router-view></router-view>
+</div>
 </template>
 
 <script>
