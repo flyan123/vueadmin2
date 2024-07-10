@@ -1,5 +1,5 @@
 <template>
-    <div>登入界面2</div>
+    <div>布局页面</div>
 </template>
 <script setup>
 
